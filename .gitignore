@@ -26,6 +26,6 @@ dist/
 build/
 
 samples.jsonl 
-samples.jsonl_results.jsonlsamples.jsonl
+samples.jsonl_results.jsonl
 *.jsonl_results.jsonl
 .env
