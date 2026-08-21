@@ -215,8 +215,3 @@ Note: `eval.py` has resume support -- if it gets interrupted by a rate limit it 
 - FastAPI wrapper for HTTP access
 - Streamlit demo frontend
 - Web search tool integration
-- arXiv preprint (in collaboration with Emory University)
-
----
-
-Built by [Nathan](https://github.com/The-IT-Official) — founder of Logits AI, incoming CS/CE freshman at UT Dallas.
